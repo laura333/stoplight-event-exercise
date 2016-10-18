@@ -53,3 +53,8 @@ var clickGo = document.querySelector("#goLight");
 clickGo.addEventListener("click", function() {
    clickGo.style.backgroundColor = "green";
 });
+
+// var logText = document.getElementById("#traffic-light");
+// logText.addEventListener("click", function() {
+//   logText.
+// });
